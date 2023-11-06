@@ -1,0 +1,46 @@
+data:
+    dataset: "lowlight"
+    image_size: 64
+    channels: 3
+    num_workers: 0
+    data_dir: "/root/LLIE/MDMS-main/datasets/scratch/LLIE/"
+    conditional: True
+
+model:
+    in_channels: 3
+    out_ch: 3
+    ch: 128
+    #ch: 32
+    # ch_mult: [1, 1, 2, 2, 4, 4]
+    ch_mult: [1, 2, 4,8]
+    num_res_blocks: 2
+    attn_resolutions: []
+    dropout: 0.0
+    ema_rate: 0.999
+    ema: True
+    resamp_with_conv: True
+
+diffusion:
+    beta_schedule: linear
+    beta_start: 0.0001
+    beta_end: 0.02
+    num_diffusion_timesteps: 1000
+
+training:
+    patch_n: 2
+    batch_size: 38   
+    n_epochs: 200000     
+    n_iters: 2000000 
+    snapshot_freq: 200
+    validation_freq: 200
+
+sampling:
+    batch_size: 1  #4
+    last_only: True
+
+optim:
+    weight_decay: 0.000
+    optimizer: "Adam"
+    lr: 0.00002
+    amsgrad: False
+    eps: 0.00000001
