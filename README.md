@@ -14,7 +14,8 @@ Example:
 # in {path_to_this_repo}/,
 $ python evaluation.py
 ```
-Output results will be saved in `./results/images/lowlight/lowlight`
+Put the test input in `datasets/scratch/LLIE/data/lowlight/test/input`
+Output results will be saved in `results/images/lowlight/lowlight`
 
 ## Results
 All results and models listed in our paper are available in [Baidu Netdisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
