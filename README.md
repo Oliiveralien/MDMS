@@ -14,7 +14,8 @@ Example:
 # in {path_to_this_repo}/,
 $ python evaluation.py
 ```
-Put the test input in `datasets/scratch/LLIE/data/lowlight/test/input`
+Put the test input in `datasets/scratch/LLIE/data/lowlight/test/input`.
+
 Output results will be saved in `results/images/lowlight/lowlight`
 
 ## Results
