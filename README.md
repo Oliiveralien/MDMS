@@ -2,14 +2,11 @@
 "Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
 
 ## Demo
-### 1. Download pretrained generator
+### 1. Download pretrained model
 
-* [Required] Pretrained generator model (Completion Network): [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ). (key: 1234)
-* [Optional] Pretrained discriminator model (Context Discriminator): [Baidu NetDisk](https://pan.baidu.com/s/1r2T4AKA0S96q0HqV62SC3g). (key: 5678)
+* [Required] Pretrained MDMS: [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ). (key: 1234)
 
-Note that you don't need the dicriminator model for inference because only generator is necessary to perform image completion.
-
-Both the generator and discriminator were trained on the CelebA. 
+This model is trained on the LOLv1 training set. 
 
 ### 2. Inference
 Example:
