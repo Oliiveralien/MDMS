@@ -4,7 +4,7 @@
 ## Demo
 ### 1. Download pretrained model
 
-* [Required] Pretrained MDMS: [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ). (key: 1234)
+* [Required] Download Pretrained MDMS: [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ). (key: 1234)
 
 This model is trained on the LOLv1 training set. 
 
@@ -12,8 +12,9 @@ This model is trained on the LOLv1 training set.
 Example:
 ```
 # in {path_to_this_repo}/,
-$ python predict.py model_cn config.json images/test.jpg output.jpg
+$ python evaluation.py
 ```
+Output results will be saved in `./results/images/lowlight/lowlight`
 
 ## Results
 All results and models listed in our paper are available in [Baidu Netdisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
