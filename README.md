@@ -21,7 +21,7 @@ Put the test input in `datasets/scratch/LLIE/data/lowlight/test/input`.
 
 Output results will be saved in `results/images/lowlight/lowlight`.
 
-### 3. Evaluation
+### Evaluation
 Example:
 ```
 # in {path_to_this_repo}/,
@@ -41,13 +41,11 @@ All results and models listed in our paper are available in [Baidu Netdisk](http
 * Phase 3 for 400,000
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/phase3_step40000.png)
 
-### 5. Training
+### Training
 Example:
 ```
 # in {path_to_this_repo}/,
 $ python train_diffusion.py
 ```
-Detailed training instruction will be updated soon.
+Detailed training instructions will be updated soon.
 
-## Training
-* Training instructions will be updated soon.
