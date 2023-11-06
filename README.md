@@ -12,7 +12,6 @@ Put the downloaded model in `datasets/scratch/LLIE/ckpts`.
 
 
 #### 2. Inference
-Example:
 ```
 # in {path_to_this_repo}/,
 $ python eval_diffusion.py
@@ -22,7 +21,6 @@ Put the test input in `datasets/scratch/LLIE/data/lowlight/test/input`.
 Output results will be saved in `results/images/lowlight/lowlight`.
 
 ## Evaluation
-Example:
 ```
 # in {path_to_this_repo}/,
 $ python evaluation.py
@@ -42,7 +40,6 @@ All results and models listed in our paper are available in [Baidu Netdisk](http
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/phase3_step40000.png)
 
 ## Training
-Example:
 ```
 # in {path_to_this_repo}/,
 $ python train_diffusion.py
