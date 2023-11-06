@@ -6,8 +6,6 @@
 
 Download the Pretrained MDMS model from [Baidu NetDisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
 
-[optional] PyDiff, LL
-
 Put the downloaded ckpt in `datasets/scratch/LLIE/ckpts`.
 
 
@@ -40,7 +38,7 @@ All results listed in our paper including the compared methods are available in 
 Our method remains superior under the same setting as PyDiff.
 ![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/com.png)
 
-### 1. Test results on [LOLv1](https://daooshee.github.io/BMVC2018website/) test set.
+### 1. Test results on LOLv1 test set.
 ![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/v1.png)
 
 ### 2. Generalization results on LOLv2 syn and real test sets.
