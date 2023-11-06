@@ -26,7 +26,7 @@ Put the test GT in `datasets/scratch/LLIE/data/lowlight/test/gt` for paired eval
 # in {path_to_this_repo}/,
 $ python evaluation.py
 ```
-* Note that our [evaluation metrics](https://github.com/Oli-iver/MDMS/blob/main/evaluation.py) are slightly different from [PyDiff](https://github.com/limuloo/PyDIff) (inherited from [BasicSR](https://github.com/XPixelGroup/BasicSR)).
+* Note that our [evaluation metrics](https://github.com/Oli-iver/MDMS/blob/main/evaluation.py) are slightly different from [PyDiff]([https://github.com/limuloo/PyDIff](https://github.com/limuloo/PyDIff/tree/862f8cc428450ef02822fd218b15705e2214ec2d/BasicSR-light/basicsr/metrics)) (inherited from [BasicSR](https://github.com/XPixelGroup/BasicSR)).
 
 ## Results
 All results and models listed in our paper are available in [Baidu Netdisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
