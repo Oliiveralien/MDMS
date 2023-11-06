@@ -1,7 +1,7 @@
 # MDMS
 "Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
 
-## Demo(Inference)
+## Demo
 ### 1. Download pretrained generator
 
 * [Required] Pretrained generator model (Completion Network): [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ). (key: 1234)
