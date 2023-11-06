@@ -31,4 +31,4 @@ For all results and models list in paper, click [here](https://pan.baidu.com/s/1
 
 
 ## Training
-Training instructions will be updated soon.
+* Training instructions will be updated soon.
