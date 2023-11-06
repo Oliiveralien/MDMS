@@ -1,0 +1,15 @@
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/1.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/111.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/146.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/179.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/22.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/23.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/493.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/547.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/55.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/665.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/669.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/748.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/778.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/780.png
+/root/LLIE/MDMS-main/datasets/scratch/LLIE/data/lowlight/test/input/79.png
