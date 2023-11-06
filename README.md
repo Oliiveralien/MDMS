@@ -4,7 +4,7 @@
 ## Demo
 #### 1. Download pretrained model
 
-Download the Pretrained MDMS model from [Baidu NetDisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
+Download the Pretrained MDMS model from [Baidu NetDisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://drive.google.com/file/d/1RcYn6543x0TtrKwGGJMnk6Jf48qoh1TC/view?usp=sharing).
 
 Put the downloaded ckpt in `datasets/scratch/LLIE/ckpts`.
 
