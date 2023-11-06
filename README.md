@@ -17,7 +17,7 @@ $ python predict.py model_cn config.json images/test.jpg output.jpg
 
 
 ## Results
-For all results and models list in paper, click [here](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu ). (key: zftu)
+All results and models listed in our paper are available in [Baidu Netdisk]https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu ) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu ). (key: zftu)
 
 ### 1. Reuslts on ParisStreet View dataset along with epochs.
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/GIF%202020-8-20%2010-56-41.gif)
