@@ -41,6 +41,13 @@ All results and models listed in our paper are available in [Baidu Netdisk](http
 * Phase 3 for 400,000
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/phase3_step40000.png)
 
+### 5. Training
+Example:
+```
+# in {path_to_this_repo}/,
+$ python train_diffusion.py
+```
+Detailed training instruction will be updated soon.
 
 ## Training
 * Training instructions will be updated soon.
