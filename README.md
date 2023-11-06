@@ -31,7 +31,7 @@ All results and models listed in our paper are available in [Baidu Netdisk](http
 * Note that the provided model is trained on the LOLv1 training set, but generalizes well on other datasets. 
 
 ### 1. Test results on LOLv1 test set.
-![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/vis.png)
+![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/v1.png)
 
 ### 2. Generalization results on LOLv2 syn and real test sets.
 ![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/vis.png)
