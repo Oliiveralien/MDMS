@@ -32,7 +32,7 @@ $ python evaluation.py
 All results and models listed in our paper are available in [Baidu Netdisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
 
 * Note that the provided model is trained on the LOLv1 training set, but generalizes well on other datasets.
-* For SSIM, we directly calculate the performance on the [RGB channel](https://github.com/Oli-iver/MDMS/blob/main/evaluation.py#L57) rather than [grayscale images](https://github.com/limuloo/PyDIff/blob/862f8cc428450ef02822fd218b15705e2214ec2d/BasicSR-light/basicsr/metrics/ssim_lol.py#L7C1-L12C132).
+* For SSIM, we directly calculate the performance on the [RGB channel](https://github.com/Oli-iver/MDMS/blob/main/evaluation.py#L49-L51) rather than [grayscale images](https://github.com/limuloo/PyDIff/blob/862f8cc428450ef02822fd218b15705e2214ec2d/BasicSR-light/basicsr/metrics/ssim_lol.py#L7C1-L12C132).
 
 ### 1. Test results on LOLv1 test set.
 ![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/v1.png)
