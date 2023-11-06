@@ -1,7 +1,7 @@
 # MDMS
 "Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
 
-## Demo
+# Demo
 ### 1. Download pretrained model
 
 Download Pretrained MDMS: [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ).
@@ -21,14 +21,14 @@ Put the test input in `datasets/scratch/LLIE/data/lowlight/test/input`.
 
 Output results will be saved in `results/images/lowlight/lowlight`.
 
-### Evaluation
+# Evaluation
 Example:
 ```
 # in {path_to_this_repo}/,
 $ python evaluation.py
 ```
 
-## Results
+# Results
 All results and models listed in our paper are available in [Baidu Netdisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
 
 ### 1. Reuslts on ParisStreet View dataset along with epochs.
@@ -41,7 +41,7 @@ All results and models listed in our paper are available in [Baidu Netdisk](http
 * Phase 3 for 400,000
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/phase3_step40000.png)
 
-### Training
+# Training
 Example:
 ```
 # in {path_to_this_repo}/,
