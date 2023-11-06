@@ -8,7 +8,7 @@ Download Pretrained MDMS: [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L
 
 Put the downloaded model in `datasets/scratch/LLIE/ckpts`.
 
-* Note that the provided model is trained on the LOLv1 training set, but generalizes well on other real-world datasets. 
+* Note that the provided model is trained on the LOLv1 training set, but generalizes well on other datasets. 
 
 
 
