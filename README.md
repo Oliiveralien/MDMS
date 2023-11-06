@@ -20,15 +20,13 @@ Output results will be saved in `results/images/lowlight/lowlight`.
 
 ## Evaluation
 
-The test output is saved in `results/images/lowlight/lowlight`.
-
-Put the test GT in `/datasets/scratch/LLIE/data/lowlight/test/gt` for paired evaluation.
+Put the test GT in `datasets/scratch/LLIE/data/lowlight/test/gt` for paired evaluation.
 
 ```
 # in {path_to_this_repo}/,
 $ python evaluation.py
 ```
-* Note that our evaluation metrics are slightly different from PyDiff (inherited from BasicSR).
+* Note that our evaluation metrics are slightly different from [PyDiff](https://github.com/limuloo/PyDIff) (inherited from [BasicSR](https://github.com/XPixelGroup/BasicSR)).
 
 ## Results
 All results and models listed in our paper are available in [Baidu Netdisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
