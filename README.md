@@ -4,9 +4,13 @@
 ## Demo
 ### 1. Download pretrained model
 
-* [Required] Download Pretrained MDMS: [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ). (key: 1234)
+Download Pretrained MDMS: [Baidu NetDisk](https://pan.baidu.com/s/1J8rrUW8K0Cw2L94sgMI-vQ).
 
-This model is trained on the LOLv1 training set. 
+Put the downloaded model in `datasets/scratch/LLIE/ckpts`.
+
+* Note that the provided model is trained on the LOLv1 training set, but generalizes well on other real-world datasets. 
+
+
 
 ### 2. Inference
 Example:
