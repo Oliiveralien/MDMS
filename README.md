@@ -11,7 +11,6 @@ Put the downloaded model in `datasets/scratch/LLIE/ckpts`.
 * Note that the provided model is trained on the LOLv1 training set, but generalizes well on other datasets. 
 
 
-
 ### 2. Inference
 Example:
 ```
@@ -21,6 +20,13 @@ $ python eval_diffusion.py
 Put the test input in `datasets/scratch/LLIE/data/lowlight/test/input`.
 
 Output results will be saved in `results/images/lowlight/lowlight`.
+
+### 3. Evaluation
+Example:
+```
+# in {path_to_this_repo}/,
+$ python evaluation.py
+```
 
 ## Results
 All results and models listed in our paper are available in [Baidu Netdisk](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu) or [Google Drive](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu).
