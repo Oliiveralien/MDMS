@@ -18,6 +18,8 @@ $ python predict.py model_cn config.json images/test.jpg output.jpg
 
 ## Results
 
+For all results and models, click [here](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu ). (key: zftu)
+
 ### 1. Reuslts on ParisStreet View dataset along with epochs.
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/GIF%202020-8-20%2010-56-41.gif)
 ### 2. Results on CelebA dataset along with phases.
@@ -28,7 +30,6 @@ $ python predict.py model_cn config.json images/test.jpg output.jpg
 * Phase 3 for 400,000
 ![All text](https://github.com/Oliiveralien/DLclass-Oliver_Inpainting/blob/master/images/phase3_step40000.png)
 
-For all results and models, click [here](https://pan.baidu.com/s/1O8hOVflnLGLSLP07nXp_sg?pwd=zftu ). (key: zftu)
 
 ## Training
 Training instructions will be updated soon.
