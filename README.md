@@ -48,8 +48,11 @@ Our method remains superior under the same setting as PyDiff.
 ![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/unpaired.png)
 
 ## Training
+Put the training dataset in `datasets/scratch/LLIE/data/lowlight/train`.
+
 ```
 # in {path_to_this_repo}/,
 $ python train_diffusion.py
 ```
+
 Detailed training instructions will be updated soon.
