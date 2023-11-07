@@ -47,6 +47,8 @@ Our method remains superior under the same setting as PyDiff.
 ### 3. Generalization results on other unpaired datasets.
 ![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/unpaired.png)
 
+We will perform more generalization tests on other real-world datasets in the future.
+
 ## Training
 Put the training dataset in `datasets/scratch/LLIE/data/lowlight/train`.
 
