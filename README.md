@@ -1,5 +1,5 @@
 # MDMS
-"Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
+AAAI2024 "Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
 
 ## Demo
 #### 1. Download pretrained model
