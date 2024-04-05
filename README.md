@@ -43,16 +43,16 @@ All results listed in our paper including the compared methods are available in 
 * For LPIPS, we use a different normalization method ([NormA](https://github.com/Oli-iver/MDMS/blob/main/evaluation.py#L74)) compared to PyDiff ([NormB](https://github.com/limuloo/PyDIff/blob/862f8cc428450ef02822fd218b15705e2214ec2d/BasicSR-light/basicsr/metrics/lpips_lol.py#L19)).
 
 Our method remains superior under the same setting as PyDiff.
-![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/com.png)
+![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/com.png)
 
 ### 1. Test results on LOLv1 test set.
-![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/v1.png)
+![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/v1.png)
 
 ### 2. Generalization results on LOLv2 syn and real test sets.
-![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/vis.png)
+![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/vis.png)
 
 ### 3. Generalization results on other unpaired datasets.
-![All text](https://github.com/Oli-iver/MDMS/blob/main/figs/unpaired.png)
+![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/unpaired.png)
 
 We will perform more training and tests on other datasets in the future.
 
