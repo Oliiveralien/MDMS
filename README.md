@@ -1,6 +1,13 @@
 # AAAI2024 - MDMS
 "Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
 
+## Enviornment
+```
+create new conda env,
+and run
+$ pip install -r requirements.txt
+```
+
 ## Demo
 #### 1. Download pretrained model
 
