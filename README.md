@@ -41,7 +41,7 @@ All results listed in our paper including the compared methods are available in 
 
 * Note that the provided model is trained on the [LOLv1](https://daooshee.github.io/BMVC2018website/) training set, but generalizes well on other datasets.
 * For SSIM, we directly calculate the performance on the [RGB channel](https://github.com/Oli-iver/MDMS/blob/main/evaluation.py#L49-L51) rather than [grayscale images](https://github.com/limuloo/PyDIff/blob/862f8cc428450ef02822fd218b15705e2214ec2d/BasicSR-light/basicsr/metrics/ssim_lol.py#L7C1-L12C132) in PyDiff.
-* For LPIPS, we use a different normalization method ([NormA](https://github.com/Oli-iver/MDMS/blob/main/evaluation.py#L74)) compared to PyDiff ([NormB](https://github.com/limuloo/PyDIff/blob/862f8cc428450ef02822fd218b15705e2214ec2d/BasicSR-light/basicsr/metrics/lpips_lol.py#L19)).
+* For LPIPS, we use a different normalization method ([NormA](https://github.com/Oliiveralien/MDMS/tree/main/evaluation.py#L74)) compared to PyDiff ([NormB](https://github.com/limuloo/PyDIff/blob/862f8cc428450ef02822fd218b15705e2214ec2d/BasicSR-light/basicsr/metrics/lpips_lol.py#L19)).
 
 Our method remains superior under the same setting as PyDiff.
 ![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/com.png)
