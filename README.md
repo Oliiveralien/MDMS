@@ -7,7 +7,7 @@ and run
 ```
 $ pip install -r requirements.txt
 ```
-CUDA as well as torch/torchvision with version >= 11.3 should be fine.
+torch/torchvision with CUDA version >= 11.3 should be fine.
 
 ## Demo
 #### 1. Download pretrained model
