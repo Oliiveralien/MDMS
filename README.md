@@ -2,12 +2,12 @@
 "Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
 
 ## Environment
-create new conda env,
+create a new conda env,
 and run
 ```
 $ pip install -r requirements.txt
 ```
-CUDA with version >= 11.3 should be fine.
+CUDA as well as torch/torchvision with version >= 11.3 should be fine.
 
 ## Demo
 #### 1. Download pretrained model
