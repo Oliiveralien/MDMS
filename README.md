@@ -7,6 +7,7 @@ and run
 ```
 $ pip install -r requirements.txt
 ```
+CUDA with version >= 11.3 should be fine.
 
 ## Demo
 #### 1. Download pretrained model
