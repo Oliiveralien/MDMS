@@ -1,6 +1,3 @@
-# AAAI2024 - MDMS
-"Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement"
-
 <div align="center">
   
 # 【AAAI'2024】Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement
@@ -73,3 +70,16 @@ $ python train_diffusion.py
 ```
 
 Detailed training instructions will be updated soon.
+
+## Citation
+If you find this paper useful, please consider staring this repo and citing our paper:
+```
+@inproceedings{shang2024multi,
+  title={Multi-Domain Multi-Scale Diffusion Model for Low-Light Image Enhancement},
+  author={Shang, Kai and Shao, Mingwen and Wang, Chao and Cheng, Yuanshuo and Wang, Shuigen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={5},
+  pages={4722--4730},
+  year={2024}
+}
