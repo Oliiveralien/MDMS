@@ -50,19 +50,26 @@ All results listed in our paper including the compared methods are available in 
 Our method remains superior under the same setting as PyDiff.
 
 <div align="center">
-  <img src="figs/com.png" width="800px"/>
+  <img src="figs/com.png" width="600"/>
 </div>
 
-![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/com.png)
-
 ### 1. Test results on LOLv1 test set.
-![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/v1.png)
+
+<div align="center">
+  <img src="figs/v1.png" width="800"/>
+</div>
 
 ### 2. Generalization results on LOLv2 syn and real test sets.
-![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/vis.png)
+
+<div align="center">
+  <img src="figs/vis.png" width="800"/>
+</div>
 
 ### 3. Generalization results on other unpaired datasets.
-![All text](https://github.com/Oliiveralien/MDMS/tree/main/figs/unpaired.png)
+
+<div align="center">
+  <img src="figs/unpaired.png" width="800"/>
+</div>
 
 We will perform more training and tests on other datasets in the future.
 
