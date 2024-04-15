@@ -68,7 +68,7 @@ Our method remains superior under the same setting as PyDiff.
 ### 3. Generalization results on other unpaired datasets.
 
 <div align="center">
-  <img src="figs/unpaired.png" width="800"/>
+  <img src="figs/unpaired.png" width="600"/>
 </div>
 
 We will perform more training and tests on other datasets in the future.
